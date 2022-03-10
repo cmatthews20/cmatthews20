@@ -1,16 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m @cmatthews20
+- 👀 I’m a Computer Engineering Student, seeking an internship/co-op for Fall 2022
+- 🌱 I’m currently learning Flutter, Dart, and Java
+- 💞️ I’m collaborating with @liam-earle and @bobbylush02 on a new Social Media app called 'LocalMe'
+- 📫 How to reach me: cmatthews20@mun.ca
 
-<!--
-**cmatthews20/cmatthews20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My repositories consist of university coursework, personal projects, and extracurriculars
+<!---
+Cole-Matthews/Cole-Matthews is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
